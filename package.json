@@ -1,6 +1,6 @@
 {
   "name": "query-builder-sql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The SQL Query Builder allow you to construct SQL queries easily in Javascript.",
   "main": "index.js",
   "scripts": {
