@@ -1,0 +1,22 @@
+{
+  "name": "query-builder-sql",
+  "version": "1.0.0",
+  "description": "The SQL Query Builder allow you to construct SQL queries easily in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushasthana572/query-builder-sql.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ayush Asthana",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ayushasthana572/query-builder-sql/issues"
+  },
+  "homepage": "https://github.com/ayushasthana572/query-builder-sql#readme"
+}
